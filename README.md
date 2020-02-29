@@ -1,1 +1,1 @@
-# buns-koji.website.github.io
+# buns-koji.github.io
